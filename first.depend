@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618764751 source:/home/hemo/myFiles/1-Programming/4-c/projects/first/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
